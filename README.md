@@ -3,7 +3,7 @@
 ## Overview
 tutorial docker mysql
 
-## tutorial docker httpd
+## tutorial docker mysql
 
 ### step.1 build
 docker build -t yusukeono/mysql:ver1.0 ./sandbox_mysql_docker
